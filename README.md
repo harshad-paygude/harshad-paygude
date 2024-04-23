@@ -13,7 +13,7 @@
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
 
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
+I am a Java Devloper & Full-Stack Software engineer. I love programming, reading, writing and speaking.
 
 As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
@@ -24,7 +24,7 @@ That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **Senior Software Engineering Student**
+- 👨‍🎓 I'm a **Java Devloper & Full-Stack Software Engineer**
 - 🔭 I’m currently working on [JU Query](https://github.com/AswinBarath/ju-query) platform
 - 👨‍🏫 I'm the **Community Leader** at [Codecademy JU](https://community.codecademy.com/jain-university-ju/)
 - 💬 Ask me about anything, I am happy to help
