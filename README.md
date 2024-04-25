@@ -13,7 +13,7 @@
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
 
-I am a Java Devloper & Full-Stack Software engineer. I love programming, reading, writing and speaking.
+I am a Java Devloper & Full-Stack Software engineer.
 
 As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
